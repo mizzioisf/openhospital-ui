@@ -46,6 +46,10 @@ then `npm start`
 
 then `docker-compose up database backend && npm start`
 
+## How to build
+
+    npm run build
+
 ## Run local development environment
 
     npm start
